@@ -73,7 +73,7 @@ body {
 .v10_5 {
   width: 364px;
   height: 107px;
-  background: url("../images/v10_5.png");
+  background: url("/v10_5.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -90,7 +90,7 @@ body {
 .v10_6 {
   width: 239px;
   height: 63px;
-  background: url("../images/v10_6.png");
+  background: url("/v10_6.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -103,7 +103,7 @@ body {
 .v10_8 {
   width: 100%;
   height: 463px;
-  background: url("../images/v10_8.png");
+  background: url("/v10_8.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -147,7 +147,7 @@ body {
 .v27_3 {
   width: 469px;
   height: 624px;
-  background: url("../images/v27_3.png");
+  background: url("/v27_3.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -165,7 +165,7 @@ body {
 .v27_4 {
   width: 70px;
   height: 70px;
-  background: url("../images/v27_4.png");
+  background: url("/v27_4.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
